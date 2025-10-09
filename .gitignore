@@ -76,6 +76,10 @@ logs/
 *.temp
 temp/
 
+# BFG Repo-Cleaner
+bfg-*.jar
+*.jar
+
 # Large model outputs
 # Note: JSON outputs are now included for dataset sharing
 
